@@ -1,4 +1,4 @@
-# 🎯 AlgoGuild - DSA Mentorship Platform
+# 🎯 AlgoGuide - DSA Mentorship Platform
 
 A production-grade SaaS platform for structured Data Structures & Algorithms mentorship focused on placement preparation.
 
